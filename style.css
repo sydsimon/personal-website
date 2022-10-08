@@ -1,0 +1,13 @@
+body {
+    background: #d4a6e5;
+    font-family: Lato;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
